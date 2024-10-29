@@ -22,7 +22,7 @@
 - **관련 주피터 노트북**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/168MEUkUp-uW9-RQzx5jRdzS2kVZQldIs?usp=sharing)
 - **시연 이미지**:  
-  [![폐결절 찾는 시연 이미지](https://github.com/son-jy/pilot/blob/main/lung.png)]
+  ![폐결절 찾는 시연 이미지](https://github.com/son-jy/pilot/blob/main/lung.png)
 ---
 
 ### 3. 차량 흐름 분석 파일럿 프로젝트
