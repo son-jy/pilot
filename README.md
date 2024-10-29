@@ -11,8 +11,7 @@
   
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
   
-- **관련 주피터 노트북**:
-  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing)
+- **관련 주피터 노트북**: [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing)
 
 - **시연 영상**:  
   [![유동인구 카운트 영상](https://github.com/son-jy/pilot/blob/main/newyork_move.png)](https://github.com/son-jy/pilot/blob/main/newyorkwalk_vrew_exported.mp4)
@@ -24,8 +23,7 @@
   
 - **주요 기능**: 폐결절 자동 탐지
   
-- **관련 주피터 노트북**:
-  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/168MEUkUp-uW9-RQzx5jRdzS2kVZQldIs?usp=sharing)
+- **관련 주피터 노트북**: [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/168MEUkUp-uW9-RQzx5jRdzS2kVZQldIs?usp=sharing)
   
 - **시연 이미지**:  
   ![폐결절 찾는 시연 이미지](https://github.com/son-jy/pilot/blob/main/lung.png)
